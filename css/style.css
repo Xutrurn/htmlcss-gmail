@@ -1,0 +1,81 @@
+body{
+  background-image: url(https://cdn.wallpapersafari.com/31/2/A7C1GQ.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.container{
+  width: 960px;
+  margin: auto;
+}
+
+hr{
+  border: 0;
+  height: 1px;
+  background: #FAFAFA;
+}
+
+.header-top{
+  height: 90px;
+}
+
+.logo{
+  height: 80px;
+  vertical-align: middle;
+}
+
+h1{
+  display: inline;
+  font-size: 22px;
+  color: #FAFAFA;
+}
+
+.count{
+  color:#FAFAFA;
+  font-size: 25px;
+  margin-top: 5px;
+  line-height: 50px;
+  display: inline-block;
+}
+
+.round{
+  width: 50px;
+  height: 50px;
+  background-color: #FF9800;
+  border-radius: 50%;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+.email-row-read{
+  padding: 2px;
+  border: 0.1px solid #212121;
+  background-color: rgba(200, 230, 201,0.4);
+}
+
+.email-row-unread{
+  padding: 2px;
+  border: 0.1px solid #212121;
+  background-color: rgba(200, 230, 201,0.9);
+}
+
+.mail-object{
+  display: inline;
+  color: #212121;
+}
+
+.mail-text{
+  color: #424242;
+}
+
+footer{
+  font-size: 20px;
+  text-align: center;
+  color: #FAFAFA;
+}
+
+.powered-by{
+  font-size: 12px;
+}
